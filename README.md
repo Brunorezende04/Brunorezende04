@@ -2,7 +2,7 @@
 -meu gmail de contato e @marcondes.bruno@escola.pr.gov.br
 - 👀 estou enteresado em aprender sobre tecnologia
 - 🌱 atualmente estou aprendendo a progamar 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
