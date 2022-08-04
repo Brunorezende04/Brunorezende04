@@ -1,11 +1,9 @@
--👋 ola,meu nome è @brunorezende 
--meu gmail de contato e @marcondes.bruno@escola.pr.gov.br
-- 👀 estou enteresado em aprender sobre tecnologia
-- 🌱 atualmente estou aprendendo a progamar 
-- 💞️ 
-- 📫 How to reach me ...
-
-<!---
-Brunorezende04/Brunorezende04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 ola,meu nome è @brunorezende
+- 📫 mau gmail de contato e @marcodes.bruno@escola.pr.gov.br
+- 👀 estou enteresado em aprender a progamar novas lingus
+- 🌱 atualmente estou aprendendo a progamar a linguagem de javascript e scratchp
+- 💞️ procuro colaborar com essa rede social
+- 
+- 
+-![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+-![]([]https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
